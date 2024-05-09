@@ -7,3 +7,12 @@ Update: Users can update existing addresses.
 Delete: Users can delete addresses.
 Retrieve Addresses: Users can retrieve addresses based on various criteria, including proximity to specified location coordinates.
 Additionally, this address book API provides a user-friendly interface for managing address data efficiently.
+
+Getting Started
+Follow these instructions to set up and run the project locally.
+
+Prerequisites
+Make sure you have the following installed on your local machine:
+
+Python 3.11+
+pip (Python package manager)
