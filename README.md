@@ -73,4 +73,4 @@ Once the application is running, you can access the API documentation at `http:/
 
 #### Accessing the Application
 
-After starting the application (either with or without Docker), you can access the API documentation at http://127.0.0.1:8000/.
+After starting the application, you can access the API documentation at http://127.0.0.1:8000/.
